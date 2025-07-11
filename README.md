@@ -1,2 +1,3 @@
 # manirul-demo
-This is my first ever Git Respository
+This is my first ever Git Repository.
+Author-Manirul Islam
